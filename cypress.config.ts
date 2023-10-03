@@ -100,8 +100,8 @@ module.exports = defineConfig({
 
   env: {
 
-    Adminurl: "http://172.25.49.185",
-    apiBaseURL: "http://172.25.49.185",
+    Adminurl: "http://172.25.48.150",
+    apiBaseURL: "http://172.25.48.150",
     profileName: "Automationprofile",
     profileNameWHS: "AutomationprofileWHS",
     profileNameCUST: "MKTProfileTCPE2E",
