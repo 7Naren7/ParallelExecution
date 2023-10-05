@@ -49,7 +49,6 @@ pipeline {
             steps{
               //bat "export DISPLAY=:99"
               bat "npm cache clean -f"
-              bat "npm -rf node_modules"
               bat "npm i"
              bat "npm install cypress@10.6.0"
            echo "Building"
